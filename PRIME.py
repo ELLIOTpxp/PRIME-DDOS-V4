@@ -11,7 +11,6 @@ def big_text(text, color):
     print(color + banner + Style.RESET_ALL)
 
 big_text("PRIME", Fore.RED)
-big_text("DDOSER", Fore.RED)
 print(Fore.RED + "V4 ☢︎︎ QUANTUM POWER\n")
 print(Fore.RED + "MADE BY TEAM FSY\n")
 
